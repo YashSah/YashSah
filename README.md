@@ -6,12 +6,12 @@
 <h3 align="center">Mobile & Web Developer | Flutter Enthusiast | Front-End Wizard 🌐</h3>
 
 <p align="justify">
-<img src="https://github.com/YashSah/Foot-Finds/assets/83505246/c6b03ecd-64d7-47a2-91fa-fe411246b6ad" width="340px" align="right" alt="Computer">
+<img src="https://github.com/YashSah/Foot-Finds/assets/83505246/c6b03ecd-64d7-47a2-91fa-fe411246b6ad" width="340px" align="right" alt="dash">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsah&label=Profile%20views&color=0e75b6&style=flat" alt="yashsah" /> </p>
 
-- 🔭 I’m currently working on [PIXY](https://github.com/YashSah/PIXY)
+- 🔭 I’m currently working on [QuickCabs](https://github.com/YashSah/QuickCabs)
 
 - 🌱 I’m currently learning **Flutter and Integration with Advanced AI Services**
 
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **yashsahyashu4752@gmail.com**
 
-- 📄 Know about my experiences ([resume](https://github.com/YashSah/Personal-portfolio-website/files/13949203/resume.pdf))
+- 📄 Know about my experiences ([resume](https://github.com/YashSah/Foot-Finds/files/14198777/MyResume.pdf))
 
 - ⚡ Fun fact: **I would tell you a joke about UDP, but you might not get it.**
 
