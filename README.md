@@ -6,7 +6,7 @@
 <h3 align="center">Mobile & Web Developer | Flutter Enthusiast | Front-End Wizard 🌐</h3>
 
 <p align="justify">
-<img src="https://github.com/lambiengcode/lambiengcode/blob/main/gif/dash.gif?raw=true" width="340px" align="right" alt="Computer">
+<img src="https://github.com/YashSah/Foot-Finds/assets/83505246/c6b03ecd-64d7-47a2-91fa-fe411246b6ad" width="340px" align="right" alt="Computer">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsah&label=Profile%20views&color=0e75b6&style=flat" alt="yashsah" /> </p>
