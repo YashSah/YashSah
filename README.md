@@ -1,4 +1,4 @@
-![masterhead][./(https://github.com/YashSah/YashSah/assets/83505246/c229508b-427a-4826-aa1f-b7516ea9576d)]
+![masterhead][(https://github.com/YashSah/YashSah/assets/83505246/c229508b-427a-4826-aa1f-b7516ea9576d)]
 <h1 align="center">Hey there! <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
