@@ -3,7 +3,7 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Yash Sah, a Flutter enthusiast.</h1>
-<h3 align="center">Mobile & Web Developer | Flutter Enthusiast | Front-End Wizard 🌐</h3>
+<h3 align="center">Mobile & Web Developer | Flutter Enthusiast | Front-End Developer 🌐</h3>
 
 <p align="justify">
 <img src="https://github.com/YashSah/Foot-Finds/assets/83505246/c6b03ecd-64d7-47a2-91fa-fe411246b6ad" width="340px" align="right" alt="dash">
@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **yashsahyashu4752@gmail.com**
 
-- 📄 Know about my experiences ([resume](https://github.com/YashSah/Foot-Finds/files/14198777/MyResume.pdf))
+- 📄 Know about my experiences ([resume](https://github.com/YashSah/YashSah/files/14995801/Yash.Sah.BTech.CSE.pdf))
 
 - ⚡ Fun fact: **I would tell you a joke about UDP, but you might not get it.**
 
